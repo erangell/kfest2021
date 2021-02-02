@@ -1,1 +1,4 @@
-# kfest2021
+# kfest2021: Reverse-engineering Jef Raskin
+
+## Resources:
+

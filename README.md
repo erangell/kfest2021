@@ -8,4 +8,4 @@
 - Swyft card Utilities Disk: https://www.apple.asimov.net/images/hardware/misc/SwyftCard%201.22.zip
 - 3rdParty directory has copies of above resources
 - ASM directory has dump and assembly listings of Swyft ROM produced using Virtual II
-
+- Apple II Basic Programming Manual: https://archive.org/details/apple-ii-basic-programming

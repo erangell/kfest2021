@@ -11,7 +11,7 @@
 - EDDE Forth code for Swyft ROM from patent: https://patentimages.storage.googleapis.com/5f/d0/13/fe21fee8f9812d/US4806916.pdf
 - Swyft card Utilities Disk: https://www.apple.asimov.net/images/hardware/misc/SwyftCard%201.22.zip
 - 3rdParty directory has copies of above resources
-- DiskImages directory has resurrected Swyft code and sample data disk
+- DiskImages directory has resurrected Swyft code, sample Swyft data disk, and Integer Basic programs demonstrated in the presentation (16 sector disk, so you don't have to preboot).
 - ASM directory has dump and assembly listings of Swyft ROM produced using Virtual II
 - MicroM8 Apple Emulator: https://paleotronic.com/software/microm8/
 - ReActive Micro: https://www.reactivemicro.com/

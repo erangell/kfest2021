@@ -28,3 +28,5 @@ Then connect the cable to the Replica 1 socket and power on the Arduino via USB 
 Use the Up and Down buttons to scroll through the list of files in the /apple1/ directory.
 Click the Select button to start sending the displayed text file to the Replica 1.
 Have Fun!
+
+Note: There is test code for the Left and Right buttons to send individual ascii characters.  Feel free to replace it with your own logic.  There is dead code at the bottom, as this was copied from a file selector for midi playback through an Arduino.

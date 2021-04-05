@@ -1,4 +1,4 @@
-* Arduino Mega interface to Replica 1+ keyboard socket
+==Arduino Mega interface to Replica 1+ keyboard socket==
 
 Pin wiring:
 MEGA +5V is not used but may be wired to breadboard.

@@ -15,4 +15,5 @@
 - ASM directory has dump and assembly listings of Swyft ROM produced using Virtual II
 - MicroM8 Apple Emulator: https://paleotronic.com/software/microm8/
 - ReActive Micro: https://www.reactivemicro.com/
+- Reset Button for SuperEncoder Board: https://wiki.reactivemicro.com/SuperEncoder#Reset_Button
 - Kennett Classic: https://www.kennettclassic.com/

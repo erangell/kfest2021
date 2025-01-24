@@ -1,7 +1,7 @@
 # kfest2021: Reverse-engineering Jef Raskin
 
 ## Resources:
-
+- Kansasfest 2021 Presentation: https://youtu.be/nDq_KdfZGyc?si=sUZaagV01gUrkvUc
 - Canon Cat Emulator: https://archive.org/details/canoncat
 - Jef Raskin Archive: https://archive.org/details/jefraskin
 - Jef's Wikipedia Page: https://en.wikipedia.org/wiki/Jef_Raskin
